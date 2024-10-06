@@ -15,6 +15,6 @@
         <item>MANUFACTURER:Google</item>
         <item>MODEL:Pixel 9</item>
         <item>RELEASE:15</item>
-        <item>SECURITY_PATCH":2024-09-05</item>
+        <item>SECURITY_PATCH:2024-09-05</item>
     </string-array>
 </resources>
