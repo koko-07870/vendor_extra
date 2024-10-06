@@ -14,6 +14,8 @@
         <item>FINGERPRINT:google/tokay_beta/tokay:15/AP41.240823.009/12329489:user/release-keys</item>
         <item>MANUFACTURER:Google</item>
         <item>MODEL:Pixel 9</item>
+        <item>PRODUCT:tokay_beta</item>
+        <item>INCREMENTAL:12329489</item>
         <item>RELEASE:15</item>
         <item>SECURITY_PATCH:2024-09-05</item>
     </string-array>
